@@ -33,7 +33,7 @@ arr[i]=sc.nextInt();
 }
 System.out.println("Your Entered Array : ");
 printArray(arr);
-System.out.println();
+System.out.println();.
 System.out.println("Max Value Of Your Array is : "+maxOfArray(arr));
 }
 }
