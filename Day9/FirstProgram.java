@@ -63,7 +63,7 @@ getElements(arr);
 int[][] a2=doTransposeNotEqual(arr,a,b);
 for(int i=0;i<a2.length;i++){
 for(int j=a2.length-1;j>i;j--){
-doSwap(a2,i,j);
+doSwap(a2,i,j); 
 }
 }
 getElements(a2);
